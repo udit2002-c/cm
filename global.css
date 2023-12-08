@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+  background-image: url('./Untitled\ design.jpg');
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+}
